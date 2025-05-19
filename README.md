@@ -72,3 +72,4 @@ Two carrier signals of different frequencies were used. The modulated signal was
 
 PSK (Phase Shift Keying):
 The modulated signal was produced using carriers with a 180° phase shift. After demodulation, the signal was recovered with a frequency of 320 Hz and an amplitude of 1.09 V.
+
